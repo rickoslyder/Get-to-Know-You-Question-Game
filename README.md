@@ -22,4 +22,4 @@ Planned user flow:
 * "NEXT TURN" button underneath, share button
 * Keep going until user quits / XX questions threshold / time limit
 
-*You asked each other: "XX" questions - play again? new theme
+* You asked each other: "XX" questions - play again? new theme
